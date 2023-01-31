@@ -4,13 +4,13 @@
   "version": "0.1.0",
   "type": "library",
   "unity": "2018.1",
-  "description": "LibrarIoh.Unity.UI (https://github.com/SorceressSpell/LibrarIoh.Unity.UI)\n\nUI Utilities for Unity.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceressSpell/LibrarIoh.Math)",
+  "description": "LibrarIoh.Unity.UI (https://github.com/SorceryStory/LibrarIoh.Unity.UI)\n\nUI Utilities for Unity.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceryStory/LibrarIoh.Math)",
   "dependencies": {
-    "com.sorceressspell.librarioh.math": "0.2.0",
+    "com.sorceressspell.librarioh.math": "0.2.1",
     "com.unity.ugui": "1.0.0"
   },
   "author": {
-    "name": "Sorceress' Spell",
+    "name": "Joana Almeida",
     "email": "Sorceress.Spell@gmail.com",
     "url": "http://SorceressSpell.com"
   },
