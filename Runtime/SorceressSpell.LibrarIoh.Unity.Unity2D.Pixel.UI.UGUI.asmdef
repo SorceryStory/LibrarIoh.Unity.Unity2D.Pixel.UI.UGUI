@@ -1,6 +1,6 @@
 {
-    "name": "SorceressSpell.LibrarIoh.Unity.UI",
-    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.UI",
+    "name": "SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI",
     "references": [
         "SorceressSpell.LibrarIoh.Math",
         "UnityEngine.UI"

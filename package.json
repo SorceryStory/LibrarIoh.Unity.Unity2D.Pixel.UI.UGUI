@@ -1,12 +1,12 @@
 {
-  "name": "com.sorceressspell.librarioh.unity.ui",
-  "displayName": "LibrarIoh.Unity.UI",
-  "version": "0.1.0",
+  "name": "com.sorceressspell.librarioh.unity.unity2d.pixel.ui.ugui",
+  "displayName": "LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI",
+  "version": "0.2.0",
   "type": "library",
   "unity": "2018.1",
-  "description": "LibrarIoh.Unity.UI (https://github.com/SorceryStory/LibrarIoh.Unity.UI)\n\nUI Utilities for Unity.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceryStory/LibrarIoh.Math)",
+  "description": "LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI (https://github.com/SorceryStory/LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI)\n\nUGUI Pixel Utilities for Unity.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceryStory/LibrarIoh.Math)",
   "dependencies": {
-    "com.sorceressspell.librarioh.math": "0.5.1",
+    "com.sorceressspell.librarioh.math": "0.5.2",
     "com.unity.ugui": "1.0.0"
   },
   "author": {
@@ -17,6 +17,9 @@
   "keywords": [
     "librarioh",
     "unity",
-    "ui"
+    "unity2d",
+    "pixel",
+    "ui",
+    "ugui"
   ]
 }

@@ -1,6 +1,6 @@
-# [LibrarIoh.Unity.UI](https://github.com/SorceryStory/LibrarIoh.Unity.UI)
+# [LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI](https://github.com/SorceryStory/LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI)
 
-UI Utilities for Unity.
+UGUI Pixel Utilities for Unity.
 
 ## Dependencies
 

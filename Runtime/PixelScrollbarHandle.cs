@@ -2,7 +2,7 @@ using SorceressSpell.LibrarIoh.Math;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace SorceressSpell.LibrarIoh.Unity.UI
+namespace SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI
 {
     public class PixelScrollbarHandle : MonoBehaviour
     {

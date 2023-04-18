@@ -1,8 +1,8 @@
 {
-    "name": "SorceressSpell.LibrarIoh.Unity.UI.Tests",
-    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.UI.Tests",
+    "name": "SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI.Tests",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI.Tests",
     "references": [
-        "SorceressSpell.LibrarIoh.Unity.UI",
+        "SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],

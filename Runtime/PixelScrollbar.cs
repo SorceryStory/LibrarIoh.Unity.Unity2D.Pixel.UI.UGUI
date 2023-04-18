@@ -2,7 +2,7 @@ using SorceressSpell.LibrarIoh.Math;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace SorceressSpell.LibrarIoh.Unity.UI
+namespace SorceressSpell.LibrarIoh.Unity.Unity2D.Pixel.UI.UGUI
 {
     public class PixelScrollbar : MonoBehaviour
     {
@@ -34,7 +34,6 @@ namespace SorceressSpell.LibrarIoh.Unity.UI
 
             RectTransform parentRectTransform = (RectTransform)_scrollRect.content.parent;
 
-
             float contentViewportSize = vertical ? parentRectTransform.rect.height : parentRectTransform.rect.width;
             float contentFullSize = vertical ? _scrollRect.content.rect.height : _scrollRect.content.rect.width;
 
@@ -45,7 +44,7 @@ namespace SorceressSpell.LibrarIoh.Unity.UI
             }
 
             // Value
-            float scrollValueUnit = ScrollUnits / ((contentFullSize - contentViewportSize));
+            float scrollValueUnit = ScrollUnits / (contentFullSize - contentViewportSize);
             _scrollbar.value = MathOperations.RoundToNearestMultiplier(MathOperations.Clamp(_scrollbar.value, 0f, 1f), scrollValueUnit);
         }
 
